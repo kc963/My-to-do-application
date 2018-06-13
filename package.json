@@ -1,0 +1,24 @@
+{
+  "name": "my-to-do-application",
+  "version": "1.0.0",
+  "description": "a to-do application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kc963/My-to-do-application.git"
+  },
+  "author": "KC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kc963/My-to-do-application/issues"
+  },
+  "homepage": "https://github.com/kc963/My-to-do-application#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
